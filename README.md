@@ -1,7 +1,7 @@
 
 # World News NLP Project
 
-### Problem Statement
+### Problem
 
 Using industry-standard NLP libraries [SpaCy](https://spacy.io/), [NLTK](https://www.nltk.org/), and [scikit-learn](https://scikit-learn.org/stable/), this study will examine the key words in a post title that most positively affect user engagement. The exploratory data analysis and visualizations in the following notebook will also factor in other features of the supplied data, including author, post time, and date. For the purposes of this study, positive user engagement will be measured in upvotes.
 
