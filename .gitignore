@@ -1,2 +1,5 @@
-# Ignoring engineered df - too large for github
+# Ignore engineered df
 data/function_test_df.csv
+
+# Ignore Mac sys files
+.DS_store
