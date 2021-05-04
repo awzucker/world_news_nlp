@@ -2,4 +2,4 @@
 data/function_test_df.csv
 
 # Ignore Mac sys files
-.DS_Store
+/.DS_Store
